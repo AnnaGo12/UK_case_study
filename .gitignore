@@ -1,0 +1,10 @@
+data-analysis/data/*
+.idea/
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+.DS_Store
+venv/
+\simulation_study_run/data/*
